@@ -1,0 +1,42 @@
+.notfound{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   span{
+    color:#9d95f4;
+     font-size:5rem; 
+     font-weight: 600;
+     border-right:1px solid #594bf4;;
+     padding-right: 1rem;
+   }
+   div{
+       padding-left: 1rem;
+       width:50%;
+      
+       
+   }
+   h1{
+    
+  color:#7c70f8;
+     font-size:1.35rem;
+     line-height: 1.7rem;
+     margin-bottom: 1rem;
+
+   }
+
+   a{
+       margin-top:0.25rem;
+       display:block;
+    font-size:1.35rem;
+    color:slategray;
+    font-weight: 600;
+ 
+    text-decoration: underline;
+    
+}
+a:hover{
+       color:#4036b1;
+   }
+ 
+ }
+ 
